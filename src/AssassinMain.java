@@ -8,7 +8,7 @@ public class AssassinMain {
     public static void main(String[] args) throws FileNotFoundException {
         // prompt for file name
         Scanner console = new Scanner(System.in);
-        System.out.println("Welcome to the EGR221 Assassin Manager");
+        System.out.println("Welcome to the EGR227 Assassin Manager");
         System.out.println();
         System.out.print("What name file do you want to use this time? ");
         String fileName = console.nextLine();
